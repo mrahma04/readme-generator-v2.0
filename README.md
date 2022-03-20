@@ -1,5 +1,15 @@
 # Readme Generator v2.0 :page_with_curl::printer:
 
+#### This is a command-line application that quickly generates a seed README.md file for your next GitHub project
+
+### To use this Application
+
+- Clone repo on a machine running Node.js
+- Navigate to local repo directory
+- Install Node modules using `npm i`
+- Type :pencil2:`node index.js` to start app
+- Output file can be found in the `dist/` folder
+
 ### User Story
 
 ```
@@ -28,5 +38,3 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 ```
-
-Download Node\nGit clone repo\nRun 'node index.js' from command-line\n
