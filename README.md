@@ -1,4 +1,4 @@
-# readme-generator-v2.0 :page_with_curl::printer:
+# Readme Generator v2.0 :page_with_curl::printer:
 
 ### User Story
 
