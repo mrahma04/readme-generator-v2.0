@@ -28,3 +28,5 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 ```
+
+Download Node\nGit clone repo\nRun 'node index.js' from command-line\n

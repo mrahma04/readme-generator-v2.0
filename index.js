@@ -26,7 +26,7 @@ const initialPrompt = async () => {
             message: 'Enter a brief description:'   
         },
         {
-            type: 'input',
+            type: 'editor',
             name: 'installation',
             message: 'Enter installation instructions:'   
         },
@@ -49,6 +49,12 @@ const initialPrompt = async () => {
             type: 'input',
             name: 'email',
             message: 'Enter your email address:'
+        },
+        {
+            type: 'list',
+            name: 'license',
+            message: 'Choose a license for your project:',
+            choices: ['MIT License', 'GPL']
         }
     ])
 
