@@ -85,13 +85,3 @@ async function init() {
 
 // Function call to initialize app
 init();
-
-// Title
-// Description
-// Table of Contents
-// Installation
-// Usage
-// License
-// Contributing
-// Tests
-// Questions
