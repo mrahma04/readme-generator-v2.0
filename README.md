@@ -10,6 +10,8 @@
 - Type :pencil2:`node index.js` to start app
 - Output file can be found in the `dist/` folder
 
+[See Walkthrough Video](https://drive.google.com/file/d/1q29GLJLqCaFuN-FvzlEmXuaICNfxkwtR/view)
+
 ### User Story
 
 ```
